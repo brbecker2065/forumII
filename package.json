@@ -1,7 +1,7 @@
 {
   "name": "forumii",
   "version": "1.0.0",
-  "description": "",
+  "description": "a new beginning",
   "main": "index.js",
   "scripts": {
     "test": "npm test"
