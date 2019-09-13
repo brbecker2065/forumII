@@ -20,5 +20,14 @@
   "bugs": {
     "url": "https://github.com/brbecker2065/forumII/issues"
   },
-  "homepage": "https://github.com/brbecker2065/forumII#readme"
+  "homepage": "https://github.com/brbecker2065/forumII#readme",
+  "dependencies": {
+    "docker-compose": "^0.22.2",
+    "homebrew": "^0.1.0",
+    "javascript": "^1.0.0",
+    "node": "^12.10.0",
+    "nodeman": "^1.1.2",
+    "webapp": "0.0.2",
+    "webpack": "^4.40.0"
+  }
 }
