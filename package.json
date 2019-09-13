@@ -1,0 +1,24 @@
+{
+  "name": "forumii",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brbecker2065/forumII.git"
+  },
+  "keywords": [
+    "node",
+    "java",
+    "nodeman"
+  ],
+  "author": "brian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brbecker2065/forumII/issues"
+  },
+  "homepage": "https://github.com/brbecker2065/forumII#readme"
+}
